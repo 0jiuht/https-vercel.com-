@@ -1,2 +1,2 @@
 # https-vercel.com-
-https://vercel.com/
+blog.omise.co
